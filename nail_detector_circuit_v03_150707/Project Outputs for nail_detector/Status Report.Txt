@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [nail_detector.PrjPcb]
+   Generated File[main.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:59:57 On 2014/9/25

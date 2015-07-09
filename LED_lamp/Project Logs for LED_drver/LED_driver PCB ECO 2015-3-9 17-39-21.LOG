@@ -1,0 +1,60 @@
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=6-0805_M
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetC1_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD7_1 Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD8_1 Pin=D9-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD9_1 Pin=D10-2
+Added Pin To Net: NetName=NetD6_2 Pin=D11-1
+Added Pin To Net: NetName=NetD10_1 Pin=D11-2
+Added Pin To Net: NetName=NetC2_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetD7_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetJ1_3 Pin=R2-2
+Added Member To Class: ClassName=LED_driver Member=Component C1 Cap Semi
+Added Member To Class: ClassName=LED_driver Member=Component C2 Cap Semi
+Added Member To Class: ClassName=LED_driver Member=Component C3 Cap Semi
+Added Member To Class: ClassName=LED_driver Member=Component C4 Cap Semi
+Added Member To Class: ClassName=LED_driver Member=Component D1 MBR0530
+Added Member To Class: ClassName=LED_driver Member=Component D2 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D3 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D4 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D5 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D6 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D7 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D8 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D9 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D10 LED2
+Added Member To Class: ClassName=LED_driver Member=Component D11 LED2
+Added Member To Class: ClassName=LED_driver Member=Component J1 Header 4H
+Added Member To Class: ClassName=LED_driver Member=Component L1 Inductor
+Added Member To Class: ClassName=LED_driver Member=Component R1 Res3
+Added Member To Class: ClassName=LED_driver Member=Component R2 Res3

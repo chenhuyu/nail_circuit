@@ -1,0 +1,5 @@
+Added Component: Designator=R3(J1-0603)
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetC2_2 Pin=R3-2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VIN
+Added Member To Class: ClassName=LED_driver Member=Component R3 Res3
