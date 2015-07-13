@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VIN Pin=C3-2
+Removed Pin From Net: NetName=VIN Pin=D1-1
+Removed Pin From Net: NetName=VIN Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Member From Class: ClassName=LED_driver Member=C2
+Removed Member From Class: ClassName=LED_driver Member=C3
+Removed Member From Class: ClassName=LED_driver Member=D1
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Header 4H New DesignItemId=Header 2H
+Change Component Footprint: Designator=C2 Old Footprint=C0805 New Footprint=C1210
+Change Component Footprint: Designator=J1 Old Footprint=HDR2X2 New Footprint=HDR1X2H
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=6-0805_M
+Change Component Comment : Designator=J1 Old Comment=Header 4H New Comment=Header 2H
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Added Pin To Net: NetName=VIN Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=VIN Pin=R1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-2
+Added Net: Name=NetJ1_1
+Added Room: Name=LED_driver

@@ -1,0 +1,5 @@
+Added Component: Designator=J2(HDR1X2)
+Added Pin To Net: NetName=NetJ1_1 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Change Net Name : Old Net Name=VIN New Net Name=+12V
+Added Member To Class: ClassName=LED_driver Member=Component J2 Header 2H
